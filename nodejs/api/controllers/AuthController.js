@@ -1,5 +1,5 @@
 const Sequelize = require("sequelize");
-const sequelize = require('../config/connection');
+// const sequelize = require('../config/connection');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcrypt');
 const Users = require('../models').user;

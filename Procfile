@@ -1,1 +1,1 @@
-node nodejs/api/index.js
+cd nodejs/api && node index.js
